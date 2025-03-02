@@ -8,8 +8,8 @@ I am a Full-Stack Developer & DevOps Engineer with expertise in Spring Boot (bac
 
 *   🌍  I'm based in Full-Stack Development & DevOps Engineering, passionate about building scalable applications and automating workflows. With expertise in both software development and DevOps, I bridge the gap between coding and deployment, ensuring seamless integration and delivery.
 *   ✉️  You can contact me at [kiprotichcollince34@gmail.com](mailto:kiprotichcollince34@gmail.com)
-*   🧠  I'm learning Currently, I am expanding my knowledge in Kubernetes, DevSecOps, and cloud-native solutions to further enhance my DevOps and full-stack capabilities. 🚀
-*   🤝  I'm open to collaborating on Open to collaborating on DevOps practices and coding projects to build efficient and scalable solutions!
+*   🧠  I'm learning Currently,expanding my knowledge in Kubernetes, DevSecOps, and cloud-native solutions to further enhance my DevOps and full-stack capabilities. 🚀
+*   🤝  I'm open to collaborating on DevOps practices and coding projects to build efficient and scalable solutions!
 *   ⚡  🚀 Breaking Code & Fixing It Again – That’s the DevOps Way!<a href="https://www.github.com/CollinsEz34" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/CollinsEz34?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
